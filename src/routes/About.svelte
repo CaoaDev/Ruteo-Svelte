@@ -5,7 +5,6 @@
 
   onMount(() => {
     if(!$user){
-
       navigate('login')
     }
   })

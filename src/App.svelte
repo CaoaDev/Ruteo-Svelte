@@ -6,7 +6,6 @@
 </script>
 
 <Router>
-
   <div>
     {#if !$user}
       <h1>Registrate para acceder...</h1>
